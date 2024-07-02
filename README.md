@@ -1,7 +1,45 @@
 # Snake-Water-Gun-Game-in-Python
 
-The Snake, Water, Gun game, a common hand game that a user plays against a computer is embed pressed in this Python script. So the logic behind that game is present in game function, which accepts the comp as a parameter and user as the other parameter.The function compares the choices and assigns a score: A score of 0 means an even, -1 represents a loss, and 1 stands for win.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contribution](#contribution)
 
-After starting, the beginner is met with a words greeting him and randomly the program decides for the computer which one of the three options will be. Finally, the user is supposed to succumb their choice and the game function is called to resolves the end result. The player’s decision, computer’s choice, and the outcome are displayed, and it shows that the player has a draw, won, or lost game.
 
-The end of the game embarks on a “GAME OVER” message with a message of thanks on playing the Snake, Water, Gun Game. This script creates a computerized gaming environment that tests their player’s decision-making efforts as opposed to computer.
+## Project Overview
+The Snake, Water, Gun game implemented in Python allows a user to play against the computer. It's a simple hand game where choices (Snake, Water, Gun) determine the outcome based on predefined rules.
+
+
+## Installation
+This project requires Python 3.12.1 or later.
+To set up the project:
+1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
+2. Clone or download the repository to your local machine.
+   - git clone <https://github.com/jaiswalchitransh/Snake-Water-Gun-Game-in-Python>
+4. Open the project in your preferred Python environment (e.g., IDE or terminal).
+5. Run the script (`game.py`) and observe the output.
+
+
+## Usage
+Ensure Python 3.x is installed. Run the script:
+
+- python game.py
+  
+Follow the prompts to enter your choice (0 for Snake, 1 for Water, 2 for Gun) when prompted.
+
+
+## Features
+- **Random Selection**: The computer randomly selects its choice (Snake, Water, Gun).
+- **Outcome Determination**: The game function compares the user's choice against the computer's choice and determines if the user won, lost, or it's a draw.
+- **Score Representation**: Returns 0 for a draw, -1 for a loss, and 1 for a win.
+- **User Interaction**: Provides clear feedback on the user's choice, the computer's choice, and the game result.
+
+
+## Contribution
+I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
+Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
+- Fork the repository
+- Make your changes
+- Submit a pull request
