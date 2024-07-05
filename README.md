@@ -18,7 +18,7 @@ To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
 
-         git clone https://github.com/jaiswalchitransh/Snake-Water-Gun-Game-in-Python
+         git clone https://github.com/jaiswalchitransh/Snake-Water-Gun-Game-in-Python.git
 
 3. Open the project in your preferred Python environment (e.g., IDE or terminal).
 4. Run the script (`game.py`) and observe the output.
