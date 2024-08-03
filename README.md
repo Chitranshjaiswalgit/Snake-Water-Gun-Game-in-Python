@@ -1,4 +1,4 @@
-# Snake-Water-Gun-Game-in-Python
+# Snake Water Gun Game in Python
 
 ## Table of Contents
 - [Project Overview](#project-overview)
