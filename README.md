@@ -40,7 +40,7 @@ Follow the prompts to enter your choice (0 for Snake, 1 for Water, 2 for Gun) wh
 
 
 ## Contribution
-I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
+I, **[Chitransh Jaiswal](https://www.linkedin.com/in/jaiswalchitransh/)** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
